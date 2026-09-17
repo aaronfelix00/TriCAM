@@ -1,4 +1,5 @@
 # TriCAM
+## Publication
 
 This repository contains the original implementation of **TriCAM**, a multimodal recommendation model that combines user--item graph propagation with visual and textual item features. The implementation includes cross-attention, MLP-based prediction, contrastive learning, and MMD-based modality alignment components.
 
